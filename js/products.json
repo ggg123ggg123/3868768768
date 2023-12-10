@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Капибара",
-    "description": "вкусный, сочный",
-    "itemsInBox": "16 шт",
-    "weight": 500,
-    "price": 3000,
+    "title": "Пирожки",
+    "description": "Как у бабушки!",
+    "itemsInBox": "1 шт",
+    "weight": 350,
+    "price": 210,
     "imgSrc": "che.jpg"
   },
   {
